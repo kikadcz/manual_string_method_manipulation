@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8f6e39a-59ad-4c5b-b094-2214764290b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/manually_doing_capitalize_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manually_title_casing_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/manually_title_casing_string.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,7 @@
     "Python.manually_left_justifying_string.executor": "Run",
     "Python.manually_removing_prefix.executor": "Run",
     "Python.manually_swapping_case.executor": "Run",
+    "Python.manually_title_casing_string.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
