@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8f6e39a-59ad-4c5b-b094-2214764290b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/manually_removing_prefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manually_converting_string_to_lowercase.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
