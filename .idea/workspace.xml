@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8f6e39a-59ad-4c5b-b094-2214764290b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/manually_center_alligning_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.manual_lstrip.executor": "Run",
+    "Python.manually_center_alligning_string.executor": "Run",
     "Python.manually_check_string_endswith.executor": "Run",
     "Python.manually_checking_if_string_is_in_uppercase.executor": "Run",
     "Python.manually_converting_string_to_lowercase.executor": "Run",
