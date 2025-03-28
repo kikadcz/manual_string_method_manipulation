@@ -25,4 +25,4 @@ def custom_isupper(s):
 text = input("Enter a string: ")
 
 # Show result
-print(f"\nResult: {custom_isupper(text)}")
+print(f"Result: {custom_isupper(text)}")
